@@ -6,6 +6,7 @@
 import pandas
 
 
+
 # columns of the data frame (as lists):
 names=["Mikael", "Erin", "Aisulu", "Shannon"]
 age=[60, 25, 25, 40]
